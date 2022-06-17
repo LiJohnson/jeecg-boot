@@ -1,3 +1,8 @@
+/target/
+/.idea/
+*.iml
+rebel.xml
+
 ## ide
 **/.idea
 *.iml
